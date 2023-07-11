@@ -38,9 +38,6 @@ const controllers = {
         console.log(productos);
     },
 
-    // get/products/Omar
-
-
     updateProducts: (req, res) => { 
         const id = Number (req.params.id); 
         const nuevosDatos = req.body;

@@ -20,6 +20,7 @@
   "homepage": "https://github.com/zebasgonza/grupo_13_furnihouse#readme",
   "dependencies": {
     "app": "^0.1.0",
+    "bcrypt": "^5.1.0",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
     "method-override": "^3.0.0",

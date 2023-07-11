@@ -100,6 +100,7 @@ body p {
     color: white;
   }
   
+  input[type="email"],
   input[type="text"],
   input[type="number"],
   select,
@@ -118,6 +119,10 @@ body p {
     margin-bottom: 10px;
   }
   
+  .saveButton {
+    display: flex;
+  }
+
   input[type="submit"] {
     background-color: #EAE2CD;
     color: #000000;
